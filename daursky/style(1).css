@@ -564,7 +564,7 @@ select {
     position: relative;
 }
 #sidebar {
-    display: inline-block;
+    display: none;
     max-width: 100%;
 }
 .page-area {
